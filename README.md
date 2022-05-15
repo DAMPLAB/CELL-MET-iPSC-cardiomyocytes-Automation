@@ -1,4 +1,4 @@
-# CELL-MET-iPSC-cardiomyocytes-Automation-Workflow
+# CELL-MET-iPSC-cardiomyocytes-Automation
 
 OT-2 API V2 protocol scripts for Opentrons robot with material for using OT-2 liquid handler to perform iPSC-derived cardiomyocytes culturing and differentiation.
 
