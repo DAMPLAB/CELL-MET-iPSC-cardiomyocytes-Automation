@@ -23,8 +23,6 @@ Below we list the materials previously used to implement CELL-MET iPSC-cardiomyo
 - [OpenTrons P20 Multi-Channel Generation 2 Electronic Pipette](https://opentrons.com/pipettes)
 - [OpenTrons P300 Multi-Channel Generation 2 Electronic Pipette](https://opentrons.com/pipettes)
 - [OpenTrons Temperature Module Generation 2](https://opentrons.com/modules#temperature)
-- [OpenTrons Magnetic Module Generation 1](https://opentrons.com/modules#magnetic)
-- Eppendorf ThermoMixer® C
 
 ### Consumables & Reagents:
 - [OpenTrons 20 µL Filter Tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-20ul-filter-tips)
@@ -33,8 +31,6 @@ Below we list the materials previously used to implement CELL-MET iPSC-cardiomyo
 - [USA Scientific 96 Deep Well Plate 2.4 mL](https://www.usascientific.com/plateone-96-deep-well-2ml/p/PlateOne-96-Deep-Well-2mL)
 - [Agilent 1 Well Reservoir 290 mL](https://www.agilent.com/store/en_US/Prod-201252-100/201252-100)
 - [USA Scientific 12- well Reservoir](https://www.usascientific.com/12-channel-automation-reservoir/p/1061-8150)
-- [MagMAXTM Viral/Pathogen II (MVP II) Nucleic Acid Isolation Kit](https://www.thermofisher.com/order/catalog/product/A48383#/A48383)
-- [TaqPathTM COVID-19 Combo Kit](https://www.thermofisher.com/order/catalog/product/A47814#/A47814)
 - [Thermo Scientific Adhesive PCR Plate Foils](https://www.thermofisher.com/order/catalog/product/A47814#/A47814)
 - Additional Reagents:
     - Nuclease-free Water (not DEPC-Treated)
@@ -45,7 +41,7 @@ Below we list the materials previously used to implement CELL-MET iPSC-cardiomyo
 Follow the Opentrons guidelines for setting up the OT-2 before executing any protocols.
 
 ### General Installation
-Using any web browser, navigate to the [GitHub directory](https://github.com/DAMPLAB/OT2-SARS-CoV2) and follow the instructions provided in the **README.md** for the General Installation to install the necessary software setup.
+Using any web browser, navigate to the [GitHub directory](https://github.com/DAMPLAB/CELL-MET-iPSC-cardiomyocytes-Automation) and follow the instructions provided in the **README.md** for the General Installation to install the necessary software setup.
 
 ### Prepare Fresh 80% Ethanol
 Prepare fresh 80% Ethanol using Ethanol, Absolute, Molecular Biology Grade and Nuclease-free Water (not DEPC-Treated) for the required number of reactions, plus 10% overage.

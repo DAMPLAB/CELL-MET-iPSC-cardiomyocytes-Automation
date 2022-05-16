@@ -7,7 +7,7 @@ This workflow enables iPSC differentiation into cardiomyocytes via Wnt signaling
 - Induced pluripotent stem cells (iPSCs) differentiation into cardiomyocytes (CMs) via Wnt signaling pathway
 - Re-plating cardiomyocytes (CMs) onto fibronectin coating plate
 
-Full setup instructions can be found [here](https://github.com/DAMPLAB/CELL-MET-iPSC-cardiomyocytes-Automation).
+Full setup instructions can be found [here](https://github.com/DAMPLAB/CELL-MET-iPSC-cardiomyocytes-Automation/blob/main/instructions.md).
 
 All code for this project is freely distributed for academic and commercial uses under the MIT license.
 
