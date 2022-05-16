@@ -3,7 +3,7 @@
 OT-2 API V2 protocol scripts for Opentrons robot with material for using OT-2 liquid handler to perform iPSC-derived cardiomyocytes culturing and differentiation.
 
 This workflow enables iPSC differentiation into cardiomyocytes via Wnt signaling pathway using the OT2 liquid handling robot by Opentrons. This includes:
-- Accutase splitting of induced pluripotent stem cells (iPSCs)
+- Accutase splitting and seeding of induced pluripotent stem cells (iPSCs)
 - Induced pluripotent stem cells (iPSCs) differentiation into cardiomyocytes (CMs) via Wnt signaling pathway
 - Re-plating cardiomyocytes (CMs) onto fibronectin coating plate
 
