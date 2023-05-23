@@ -17,7 +17,7 @@ All code for this project is freely distributed for academic and commercial uses
 
 2. [OT2 APP](https://opentrons.com/ot-app)
 
-3. Clone this [repository](https://github.com/DAMPLAB/opentrons_protocols/tree/main/OT2-Colony-Picking) to a local computer.
+3. Clone this [repository](https://github.com/DAMPLAB/CELL-MET-iPSC-cardiomyocytes-Automation) to a local computer.
 
 ## Authors
 
